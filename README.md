@@ -1,2 +1,0 @@
-# NDNresearch
-Personal research code
